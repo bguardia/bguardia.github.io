@@ -1,3 +1,6 @@
 [submodule "Newscientist Article"]
 	path = newscientist_article
 	url = https://github.com/bguardia/newscientist-article-copy
+[submodule "apple.com-2014-page-copy"]
+	path = apple.com-2014-page-copy
+	url = https://github.com/bguardia/apple.com-2014-page-copy
