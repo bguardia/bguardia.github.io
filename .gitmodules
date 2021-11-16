@@ -4,3 +4,6 @@
 [submodule "apple.com-2014-page-copy"]
 	path = apple.com-2014-page-copy
 	url = https://github.com/bguardia/apple.com-2014-page-copy
+[submodule "site-heat-map"]
+	path = site-heat-map
+	url = https://github.com/bguardia/site-heat-map
