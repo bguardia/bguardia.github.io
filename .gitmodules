@@ -7,3 +7,6 @@
 [submodule "site-heat-map"]
 	path = site-heat-map
 	url = https://github.com/bguardia/site-heat-map
+[submodule "tic-tac-toe-js"]
+	path = tic-tac-toe-js
+	url = https://github.com/bguardia/tic-tac-toe-js
