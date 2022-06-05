@@ -10,3 +10,6 @@
 [submodule "tic-tac-toe-js"]
 	path = tic-tac-toe-js
 	url = https://github.com/bguardia/tic-tac-toe-js
+[submodule "todo-app-dist"]
+	path = todo-app-dist
+	url = https://github.com/bguardia/todo-app-dist
